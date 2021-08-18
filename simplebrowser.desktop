@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=Network;
+Comment[zh_CN]=简单 WebEngine Qt 浏览器 
+Comment=Simple WebEngine Qt Browser
+Exec=qbrowser
+GenericName[zh_CN]=简单 WebEngine Qt 浏览器
+GenericName=Simple WebEngine Qt Browser
+Icon=web-browser
+MimeType=
+Name[zh_CN]=简单 WebEngine Qt 浏览器
+Name=Simple WebEngine Qt Browser
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
