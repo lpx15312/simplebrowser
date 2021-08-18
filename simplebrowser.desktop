@@ -2,7 +2,7 @@
 Categories=Network;
 Comment[zh_CN]=简单 WebEngine Qt 浏览器 
 Comment=Simple WebEngine Qt Browser
-Exec=qbrowser
+Exec=simplebrowser
 GenericName[zh_CN]=简单 WebEngine Qt 浏览器
 GenericName=Simple WebEngine Qt Browser
 Icon=web-browser
