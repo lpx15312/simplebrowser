@@ -162,7 +162,7 @@ void TabWidget::setupView(WebView *webView)
     connect(webView, &QWebEngineView::titleChanged, [this, webView](const QString &title) {
         int index = indexOf(webView);
         if (index != -1) {
-            setTabText(index, title);
+            setTabText(index, title.leftJustified(26, ' ', true));
             setTabToolTip(index, title);
         }
         if (currentIndex() == index)
